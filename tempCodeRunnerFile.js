@@ -1,3 +1,1 @@
-let a = prompt('enter your age')
-
-  // checkAge(a)
+counter = counter.slice(0,-2)

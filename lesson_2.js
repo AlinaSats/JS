@@ -10,29 +10,29 @@
 //   console.log('2')
 // } 
 
-// let dog_show = true
-// let age = 18
-// let money = 100
-// let dog = false
+let dog_show = true
+let age = 18
+let money = 100
+let dog = false
 
-// if (age>= 18 && money>=1000 && dog) {
-//   console.log('Get ticket')
-// } else      { if(age<18) {
-//               console.log('early')
-// }            if(money<1000) {
-//              console.log('keep calm work hard')
-// }            if (!dog) {
-//              console.log('get cat')
-// }  }
+if (age>= 18 && money>=1000 && dog) {
+  console.log('Get ticket')
+} else      { if(age<18) {
+              console.log('early')
+}            if(money<1000) {
+             console.log('keep calm work hard')
+}            if (!dog) {
+             console.log('get cat')
+}  }
 
-// switch (!dog_show) {
-//   case age >=18:
-//     console.log('time to win')  
+switch (!dog_show) {
+  case age >=18:
+    console.log('time to win')  
     
-//   case money>=1000 :
-//     console.log('rich') 
-//     break;
-// }
+  case money>=1000 :
+    console.log('rich') 
+    break;
+}
 
 count = 0
 
